@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmultilingual_ophtho=self.webpackChunkmultilingual_ophtho||[]).push([[5912],{5849:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/eyelingo-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
