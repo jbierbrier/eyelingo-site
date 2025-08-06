@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmultilingual_ophtho=self.webpackChunkmultilingual_ophtho||[]).push([[5742],{7093:u=>{u.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
