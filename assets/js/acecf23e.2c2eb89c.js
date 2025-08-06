@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmultilingual_ophtho=self.webpackChunkmultilingual_ophtho||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/eyelingo-site/blog","blogTitle":"Blog","authorsListPath":"/eyelingo-site/blog/authors"}')}}]);
