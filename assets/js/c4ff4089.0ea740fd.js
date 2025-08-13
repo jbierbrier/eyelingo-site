@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmultilingual_ophtho=self.webpackChunkmultilingual_ophtho||[]).push([[8903],{12222:(h,e,l)=>{l.r(e),l.d(e,{default:()=>t});l(96540);var u=l(26768),n=l(74848);function t(){return(0,n.jsxs)(u.A,{children:[(0,n.jsx)("h1",{children:"My React page"}),(0,n.jsx)("p",{children:"yeahhhhh!"})]})}}}]);
